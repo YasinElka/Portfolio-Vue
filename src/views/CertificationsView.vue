@@ -27,7 +27,7 @@
 <script>
 // Importerar certifikatbilden
 import certifikatBild from '@/assets/certifikat-Yasin-elkawwash-grundlaggande-programmering.png';
-
+import certifikatBild1 from '@/assets/certifikat-Yasin-elkawwash-programmering-fordjupning.png';
 export default { 
   name: 'CertificationsView',
   data() {
@@ -38,6 +38,11 @@ export default {
           id: 1,
           namn: 'Grundläggande programmering',
           bild: certifikatBild  // Använd den importerade variabeln
+        },
+        {
+          id: 2,
+          namn: 'Fördjupning programmering',
+          bild: certifikatBild1  // Använd den importerade variabeln
         }
       ]
     };

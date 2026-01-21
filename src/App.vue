@@ -29,7 +29,7 @@ border-radius: 5px;
 }
 .navbar a {
   color: whitesmoke;
-  margin-right: 25px;
+  margin-right: 60px;
   text-decoration: none;
   font-weight: bold;
 }
