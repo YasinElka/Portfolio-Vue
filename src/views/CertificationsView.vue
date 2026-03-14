@@ -28,7 +28,7 @@
 // Importerar certifikatbilden
 import certifikatBild from '@/assets/certifikat-Yasin-elkawwash-grundlaggande-programmering.png';
 import certifikatBild1 from '@/assets/certifikat-Yasin-elkawwash-programmering-fordjupning.png';
-import certifikatBild2 from '@/assets/Certifikat-nckl8-Yasin-El-kawwash-programmering-c-fullstack.png';
+import certifikatBild2 from '@/assets/certifikat-nckl8-Yasin-El-kawwash-programmering-c-fullstack.png';
 export default { 
   name: 'CertificationsView',
   data() {
